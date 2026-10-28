@@ -1,0 +1,10 @@
+Consulta bibliográfica: 28/10/2026. No son pruebas contra el canal digital.
+F1 https://www.php.net/eol.php : PHP 7.4 sin soporte desde 28/11/2022.
+F2 https://nginx.org/en/download.html : rama nginx 1.20 clasificada como legacy.
+F3 https://nginx.org/2022.html : 1.22.0 estable publicada 24/05/2022; acredita sustitución de 1.20, no fecha oficial de EOL.
+F4 https://nvd.nist.gov/vuln/detail/CVE-2020-25213 : WP File Manager anterior a 6.9; carga/ejecución de PHP. Huella 6.8 no demuestra explotación.
+F5 https://www.leyes.congreso.gob.pe/documentos/leyes/29733.pdf : Ley 29733. Complemento oficial consultado: https://www.smv.gob.pe/Uploads/Ley_29733_vigente_2025.pdf
+F6 https://owasp.org/www-project-web-security-testing-guide/v42/ : WSTG 4.2.
+F7 https://github.com/OWASP/ASVS/tree/v4.0.3/4.0/en : ASVS versión fija 4.0.3.
+F8 https://www.iso.org/standard/27001 : ISO/IEC 27001. Correspondencias del Anexo A a cotejar con ejemplar institucional NTP-ISO/IEC 27001:2022; no se accedió al texto completo licenciado.
+No se atribuye EOL exacto a nginx sin fuente primaria concluyente. No se efectuó explotación de CVE.

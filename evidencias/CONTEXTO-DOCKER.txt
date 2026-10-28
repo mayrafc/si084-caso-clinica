@@ -1,0 +1,6 @@
+NAME          IMAGE               COMMAND                  SERVICE   CREATED          STATUS         PORTS
+csl_api       nginx:1.20-alpine   "/docker-entrypoint.…"   api       11 minutes ago   Up 4 minutes   127.0.0.1:8088->80/tcp
+csl_portal    nginx:1.20-alpine   "/docker-entrypoint.…"   portal    11 minutes ago   Up 4 minutes   127.0.0.1:8080->80/tcp
+csl_pruebas   nginx:1.20-alpine   "/docker-entrypoint.…"   pruebas   11 minutes ago   Up 3 minutes   127.0.0.1:8081->80/tcp
+["nginx@sha256:016789c9a2d021b2dcb5e1c724c75ab0a57cc4e8cd7aab7bb28e69fec7c8c4fc"]
+Registro de preparación 28/10/2026: docker ps inicial mostró si084_dvwa en 127.0.0.1:8081 y greenbone-community-edition-nginx-1 en 127.0.0.1:443. DVWA se detuvo con autorización expresa de la usuaria para liberar 8081. No se consultó el servicio ajeno del puerto 443. Los servicios csl son la infraestructura original del ZIP docente.
