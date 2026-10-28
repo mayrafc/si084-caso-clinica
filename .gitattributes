@@ -1,0 +1,2 @@
+# Preserve exact bytes of the supplied case and SHA-256 evidence on all systems.
+* -text
